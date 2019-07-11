@@ -1,4 +1,4 @@
-package learngo
+package modtest
 
 import "github.com/shopspring/decimal"
 
