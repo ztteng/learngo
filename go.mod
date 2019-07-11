@@ -1,4 +1,4 @@
-module learngo
+module github.com/ztteng/learngo
 
 go 1.12
 
